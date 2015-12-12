@@ -1,0 +1,19 @@
+#firstimg {
+  width: 100px;
+  height: 100px;
+}
+
+#heading {
+  vertical-align: center;
+  text-align: center;
+  padding-right: 50px;
+}
+
+.center {
+  text-align: center;
+  padding-left: 420px;
+}
+
+img {
+  padding-top: 25px;
+}
