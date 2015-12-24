@@ -17,3 +17,11 @@
 img {
   padding-top: 25px;
 }
+
+.center {
+  padding-left: 300px;
+}
+
+.align {
+  text-align: center;
+}
